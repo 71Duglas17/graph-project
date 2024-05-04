@@ -1,0 +1,22 @@
+C:\Users\пк\source\repos\Орграфы\Орграфы\bin\Debug\Орграфы.exe.config
+C:\Users\пк\source\repos\Орграфы\Орграфы\bin\Debug\Орграфы.exe
+C:\Users\пк\source\repos\Орграфы\Орграфы\bin\Debug\Орграфы.pdb
+C:\Users\пк\source\repos\Орграфы\Орграфы\obj\Debug\Орграфы.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\Орграфы\Орграфы\obj\Debug\Орграфы.Form1.resources
+C:\Users\пк\source\repos\Орграфы\Орграфы\obj\Debug\Орграфы.Form2.resources
+C:\Users\пк\source\repos\Орграфы\Орграфы\obj\Debug\Орграфы.Properties.Resources.resources
+C:\Users\пк\source\repos\Орграфы\Орграфы\obj\Debug\Орграфы.csproj.GenerateResource.cache
+C:\Users\пк\source\repos\Орграфы\Орграфы\obj\Debug\Орграфы.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\Орграфы\Орграфы\obj\Debug\Орграфы.exe
+C:\Users\пк\source\repos\Орграфы\Орграфы\obj\Debug\Орграфы.pdb
+C:\Users\пк\OneDrive\Рабочий стол\Орграфы\Орграфы\bin\Debug\Орграфы.exe.config
+C:\Users\пк\OneDrive\Рабочий стол\Орграфы\Орграфы\bin\Debug\Орграфы.exe
+C:\Users\пк\OneDrive\Рабочий стол\Орграфы\Орграфы\bin\Debug\Орграфы.pdb
+C:\Users\пк\OneDrive\Рабочий стол\Орграфы\Орграфы\obj\Debug\Орграфы.csproj.AssemblyReference.cache
+C:\Users\пк\OneDrive\Рабочий стол\Орграфы\Орграфы\obj\Debug\Орграфы.Form1.resources
+C:\Users\пк\OneDrive\Рабочий стол\Орграфы\Орграфы\obj\Debug\Орграфы.Form2.resources
+C:\Users\пк\OneDrive\Рабочий стол\Орграфы\Орграфы\obj\Debug\Орграфы.Properties.Resources.resources
+C:\Users\пк\OneDrive\Рабочий стол\Орграфы\Орграфы\obj\Debug\Орграфы.csproj.GenerateResource.cache
+C:\Users\пк\OneDrive\Рабочий стол\Орграфы\Орграфы\obj\Debug\Орграфы.csproj.CoreCompileInputs.cache
+C:\Users\пк\OneDrive\Рабочий стол\Орграфы\Орграфы\obj\Debug\Орграфы.exe
+C:\Users\пк\OneDrive\Рабочий стол\Орграфы\Орграфы\obj\Debug\Орграфы.pdb
